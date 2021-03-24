@@ -1,0 +1,1 @@
+verdi +v2k +incdir+../rtl/DW8051 -f ../flist/flist.vc -top DW8051_core &
